@@ -7,7 +7,7 @@ import TagAbout from '@/components/sections/about/TagAbout';
 import FeatureCardOne from '@/components/sections/feature/FeatureCardOne';
 import ProductCardOne from '@/components/sections/product/ProductCardOne';
 import PricingCardTwo from '@/components/sections/pricing/PricingCardTwo';
-import MetricCardThree from '@/components/sections/metric/MetricCardThree';
+import MetricCardThree from '@/components/sections/metrics/MetricCardThree';
 import TeamCardOne from '@/components/sections/team/TeamCardOne';
 import TestimonialCardOne from '@/components/sections/testimonial/TestimonialCardOne';
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
